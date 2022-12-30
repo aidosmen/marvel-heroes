@@ -1,0 +1,28 @@
+.input {
+  width: 100%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 12px;
+  margin: 1rem 0;
+  background-color: #f8f8f8;
+}
+
+.input[type=file] {
+  padding: 0;
+  background-color: #fff;
+  border: none;
+}
+
+.search {
+  padding-left: 40px;
+  background-image: url('../../../assets/images/search-icon.png');
+}
+
+label {
+  display: block;
+}
