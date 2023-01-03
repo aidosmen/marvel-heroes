@@ -6,7 +6,6 @@ const App = () => {
     <Routes>
       <Route path="/" element={<Main />} />
       <Route path="/:id" element={<HeroDescription />} />
-      <Route path="*" element={<Navigate to="/" />} />
     </Routes>
   );
 };
