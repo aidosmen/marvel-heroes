@@ -34,7 +34,10 @@ export const HeroDescription = () => {
 
     return require("../assets/images/" + hero.image);
   };
-  if (!heroById) return null;
+  if (!heroById) {
+    navigate("/");
+    return null;
+  }
   return (
     <div className="hero-container">
       <Button onClick={() => navigate("/")}>Back To Heroes</Button>

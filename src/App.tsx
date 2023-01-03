@@ -1,4 +1,4 @@
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route, Navigate } from "react-router-dom";
 import { Main, HeroDescription } from "./containers";
 
 const App = () => {
@@ -6,6 +6,7 @@ const App = () => {
     <Routes>
       <Route path="/" element={<Main />} />
       <Route path="/:id" element={<HeroDescription />} />
+      <Route path="*" element={<Navigate to="/" />} />
     </Routes>
   );
 };
