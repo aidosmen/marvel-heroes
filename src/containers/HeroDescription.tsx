@@ -35,7 +35,7 @@ export const HeroDescription = () => {
     return require("../assets/images/" + hero.image);
   };
   if (!heroById) {
-    navigate("/");
+    // navigate("/");
     return null;
   }
   return (
