@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/marvel-heroes/static/css/main.cb557079.css",
-    "main.js": "/marvel-heroes/static/js/main.b832cd1b.js",
-    "static/js/787.c81e77b4.chunk.js": "/marvel-heroes/static/js/787.c81e77b4.chunk.js",
-    "static/media/thor.png": "/marvel-heroes/static/media/thor.db33967a0f1d59e158eb.png",
-    "static/media/hulk.png": "/marvel-heroes/static/media/hulk.b4328429f335d83b711d.png",
-    "static/media/spider-man.png": "/marvel-heroes/static/media/spider-man.627392a726d68eb7ac86.png",
-    "static/media/iron-man.png": "/marvel-heroes/static/media/iron-man.c83ad2b85226a61f5182.png",
-    "static/media/black-widow.png": "/marvel-heroes/static/media/black-widow.32fdc2f851d92e39e711.png",
-    "static/media/captain-america.png": "/marvel-heroes/static/media/captain-america.f598a4502f577dbc1904.png",
-    "index.html": "/marvel-heroes/index.html",
-    "main.cb557079.css.map": "/marvel-heroes/static/css/main.cb557079.css.map",
-    "main.b832cd1b.js.map": "/marvel-heroes/static/js/main.b832cd1b.js.map",
-    "787.c81e77b4.chunk.js.map": "/marvel-heroes/static/js/787.c81e77b4.chunk.js.map"
+    "main.css": "./static/css/main.cb557079.css",
+    "main.js": "./static/js/main.46797474.js",
+    "static/js/787.c81e77b4.chunk.js": "./static/js/787.c81e77b4.chunk.js",
+    "static/media/thor.png": "./static/media/thor.db33967a0f1d59e158eb.png",
+    "static/media/hulk.png": "./static/media/hulk.b4328429f335d83b711d.png",
+    "static/media/spider-man.png": "./static/media/spider-man.627392a726d68eb7ac86.png",
+    "static/media/iron-man.png": "./static/media/iron-man.c83ad2b85226a61f5182.png",
+    "static/media/black-widow.png": "./static/media/black-widow.32fdc2f851d92e39e711.png",
+    "static/media/captain-america.png": "./static/media/captain-america.f598a4502f577dbc1904.png",
+    "index.html": "./index.html",
+    "main.cb557079.css.map": "./static/css/main.cb557079.css.map",
+    "main.46797474.js.map": "./static/js/main.46797474.js.map",
+    "787.c81e77b4.chunk.js.map": "./static/js/787.c81e77b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb557079.css",
-    "static/js/main.b832cd1b.js"
+    "static/js/main.46797474.js"
   ]
 }
