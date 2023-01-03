@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/marvel-heroes/static/css/main.cb557079.css",
-    "main.js": "/marvel-heroes/static/js/main.0c765ec6.js",
+    "main.js": "/marvel-heroes/static/js/main.6e2c8344.js",
     "static/js/787.c81e77b4.chunk.js": "/marvel-heroes/static/js/787.c81e77b4.chunk.js",
-    "static/media/thor.png": "/marvel-heroes/static/media/thor.db33967a0f1d59e158eb.png",
-    "static/media/hulk.png": "/marvel-heroes/static/media/hulk.b4328429f335d83b711d.png",
-    "static/media/spider-man.png": "/marvel-heroes/static/media/spider-man.627392a726d68eb7ac86.png",
-    "static/media/iron-man.png": "/marvel-heroes/static/media/iron-man.c83ad2b85226a61f5182.png",
-    "static/media/black-widow.png": "/marvel-heroes/static/media/black-widow.32fdc2f851d92e39e711.png",
-    "static/media/captain-america.png": "/marvel-heroes/static/media/captain-america.f598a4502f577dbc1904.png",
+    "static/media/hulk.png": "/marvel-heroes/static/media/hulk.65f02dda74d222efa45f.png",
+    "static/media/thor.png": "/marvel-heroes/static/media/thor.88f89b0c5164456b7dc7.png",
+    "static/media/spider-man.png": "/marvel-heroes/static/media/spider-man.856249071c3cf4bdd03b.png",
+    "static/media/iron-man.png": "/marvel-heroes/static/media/iron-man.17bda9deb321e2c6a7dd.png",
+    "static/media/black-widow.png": "/marvel-heroes/static/media/black-widow.7aaec26350aa1c70c3a5.png",
+    "static/media/captain-america.png": "/marvel-heroes/static/media/captain-america.2c52bcb8ae18d08f68b7.png",
     "index.html": "/marvel-heroes/index.html",
     "main.cb557079.css.map": "/marvel-heroes/static/css/main.cb557079.css.map",
-    "main.0c765ec6.js.map": "/marvel-heroes/static/js/main.0c765ec6.js.map",
+    "main.6e2c8344.js.map": "/marvel-heroes/static/js/main.6e2c8344.js.map",
     "787.c81e77b4.chunk.js.map": "/marvel-heroes/static/js/787.c81e77b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb557079.css",
-    "static/js/main.0c765ec6.js"
+    "static/js/main.6e2c8344.js"
   ]
 }
