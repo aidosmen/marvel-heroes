@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/marvel-heroes/static/css/main.cb557079.css",
-    "main.js": "/marvel-heroes/static/js/main.70f2a0c0.js",
+    "main.js": "/marvel-heroes/static/js/main.0c765ec6.js",
     "static/js/787.c81e77b4.chunk.js": "/marvel-heroes/static/js/787.c81e77b4.chunk.js",
     "static/media/thor.png": "/marvel-heroes/static/media/thor.db33967a0f1d59e158eb.png",
     "static/media/hulk.png": "/marvel-heroes/static/media/hulk.b4328429f335d83b711d.png",
@@ -11,11 +11,11 @@
     "static/media/captain-america.png": "/marvel-heroes/static/media/captain-america.f598a4502f577dbc1904.png",
     "index.html": "/marvel-heroes/index.html",
     "main.cb557079.css.map": "/marvel-heroes/static/css/main.cb557079.css.map",
-    "main.70f2a0c0.js.map": "/marvel-heroes/static/js/main.70f2a0c0.js.map",
+    "main.0c765ec6.js.map": "/marvel-heroes/static/js/main.0c765ec6.js.map",
     "787.c81e77b4.chunk.js.map": "/marvel-heroes/static/js/787.c81e77b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb557079.css",
-    "static/js/main.70f2a0c0.js"
+    "static/js/main.0c765ec6.js"
   ]
 }
