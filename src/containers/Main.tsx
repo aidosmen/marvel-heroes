@@ -29,6 +29,10 @@ export const Main = () => {
     <>
       <header>
         <h1>Marvel Heroes</h1>
+        <p>
+          Demo app using imitating http requests and local storage to create a
+          new hero
+        </p>
         <Input search={true} onChange={(e) => searchHandler(e)} />
       </header>
       {status === StatusEnum.PENDING ? (
