@@ -10,7 +10,7 @@ const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
 );
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename="/marvel-heroes">
     <Provider store={store}>
       <App />
     </Provider>
